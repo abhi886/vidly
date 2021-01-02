@@ -1,4 +1,10 @@
 hello
 hello world
 hello world again
+<<<<<<< HEAD
 hello again and again
+=======
+
+
+hello world - feature/change-password 
+>>>>>>> feature/change-password
